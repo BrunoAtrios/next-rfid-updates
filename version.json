@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.3",
+  "versao": "2.5.4",
   "data": "2026-11-10",
-  "titulo": "Next RFID v2.5.3 - Teste de Atualização Automática",
-  "notas": "Atualização técnica sem mudanças operacionais no RFID. Esta versão valida o download, execução do instalador e reinício automáticos.",
-  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.3/Next_RFID_Setup_v2.5.3.exe",
+  "titulo": "Next RFID v2.5.4 - Correção SSL",
+  "notas": "Corrige a validação de certificados no download automático para funcionar em computadores sem cadeia raiz do Windows atualizada.",
+  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.4/Next_RFID_Setup_v2.5.4.exe",
   "obrigatorio": false
 }
