@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.1",
+  "versao": "2.5.2",
   "data": "2026-11-10",
-  "titulo": "Next RFID v2.5.1 - Importação de Planilhas Grandes",
-  "notas": "Correção para importação de planilhas grandes, confirmação da quantidade efetivamente carregada e mensagem detalhada caso ocorra falha.",
-  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.1/Next_RFID_Setup_v2.5.1.exe",
+  "titulo": "Next RFID v2.5.2 - Atualização com Progresso",
+  "notas": "Tela de atualização com progresso real, percentual e MB baixados, diagnóstico de falhas e reinício automático ao concluir.",
+  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.2/Next_RFID_Setup_v2.5.2.exe",
   "obrigatorio": false
 }
