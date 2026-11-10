@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.5",
+  "versao": "2.5.7",
   "data": "2026-11-10",
-  "titulo": "Next RFID v2.5.5 - Teste Final de Atualização",
-  "notas": "Atualização técnica mínima para validar download HTTPS, execução do instalador e reinício automáticos. Sem alterações no RFID ou na importação de planilhas.",
-  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.5/Next_RFID_Setup_v2.5.5.exe",
+  "titulo": "Next RFID v2.5.7 - Correção de Atualização",
+  "notas": "Corrige o ciclo de atualização: fecha a versão anterior antes de instalar, remove executáveis antigos e abre somente a nova versão. Sem alterações no RFID ou na importação.",
+  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.7/Next_RFID_Setup_v2.5.7.exe",
   "obrigatorio": false
 }
