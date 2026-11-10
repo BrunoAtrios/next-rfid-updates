@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.0",
-  "data": "2026-11-04",
-  "titulo": "Next RFID v2.5.0 - Versão Oficial Homologada",
-  "notas": "Versão inicial estável com suporte a M-ID10S (COM/HID) e M-ID40 Light (IP), gravação sequencial contínua, tela cheia maximizada e proteção local por senha mestre.",
-  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.0/Next_RFID_Setup_v2.5.0.exe",
+  "versao": "2.5.1",
+  "data": "2026-11-10",
+  "titulo": "Next RFID v2.5.1 - Importação de Planilhas Grandes",
+  "notas": "Correção para importação de planilhas grandes, confirmação da quantidade efetivamente carregada e mensagem detalhada caso ocorra falha.",
+  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.1/Next_RFID_Setup_v2.5.1.exe",
   "obrigatorio": false
 }
