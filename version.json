@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.7",
-  "data": "2026-11-10",
-  "titulo": "Next RFID v2.5.7 - Correção de Atualização",
-  "notas": "Corrige o ciclo de atualização: fecha a versão anterior antes de instalar, remove executáveis antigos e abre somente a nova versão. Sem alterações no RFID ou na importação.",
-  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.7/Next_RFID_Setup_v2.5.7.exe",
+  "versao": "2.5.8",
+  "data": "2026-11-11",
+  "titulo": "Next RFID v2.5.8 - Indicadores da Conferência",
+  "notas": "Contagem por EPC único, faltantes explícitos e percentual sem conclusão prematura. EPCs duplicados são sinalizados para revisão. Sem mudanças nos leitores, gravação ou formato de importação.",
+  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.8/Next_RFID_Setup_v2.5.8.exe",
   "obrigatorio": false
 }
