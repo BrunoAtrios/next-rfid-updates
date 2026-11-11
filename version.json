@@ -1,8 +1,8 @@
 {
-  "versao": "2.5.8",
+  "versao": "2.5.9",
   "data": "2026-11-11",
-  "titulo": "Next RFID v2.5.8 - Indicadores da Conferência",
-  "notas": "Contagem por EPC único, faltantes explícitos e percentual sem conclusão prematura. EPCs duplicados são sinalizados para revisão. Sem mudanças nos leitores, gravação ou formato de importação.",
-  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.8/Next_RFID_Setup_v2.5.8.exe",
+  "titulo": "Next RFID v2.5.9 - Correção do Atualizador",
+  "notas": "Atualizador nativo confirma elevação antes de fechar o aplicativo e aguarda os processos exatos. Bloqueia abertura sobre instância antiga; remove encerramento global por nome. RFID, importação, gravação e indicadores preservados. Quem está na 2.5.7/2.5.8 deve fechar o aplicativo e executar uma vez o instalador 2.5.9 diretamente, sem desinstalar: o botão antigo não é corrigido retroativamente. Depois, validar atualização futura no cliente.",
+  "url_instalador": "https://github.com/BrunoAtrios/next-rfid-updates/releases/download/v2.5.9/Next_RFID_Setup_v2.5.9.exe",
   "obrigatorio": false
 }
